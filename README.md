@@ -1,4 +1,3 @@
-### Barney Vizy 
 ### @AWS SAM DevOps
 
 <!--
